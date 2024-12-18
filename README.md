@@ -8,7 +8,7 @@
 
 **swampUPsideDOWN** is a revolutionary initiative that aims to redefine swamp ecosystems by flipping them upside down—literally! Inspired by a passion for innovative solutions and a touch of whimsy, this project is as quirky as it is groundbreaking.
 
-Meet  **Arnold Pollard**, a senior developer at **ToadallyNotAmphibians Inc.**, a company that's *ribbit*-ed itself of any frog affiliations. After a fateful encounter where a frog stole his sandwich during a lunch break, Arnold vowed to create a world where frogs no longer leap uninvited.
+Meet **Arnold Pollard**, a senior developer at **ToadallyNotAmphibians Inc.**, a company that's *ribbit*-ed itself of any frog affiliations. After a fateful encounter where a frog stole his sandwich during a lunch break, Arnold vowed to create a world where frogs no longer leap uninvited.
 
 > "*They said the swamp couldn't be drained. I said, let's flip it instead!*"
 > — Arnold Pollard
@@ -25,13 +25,13 @@ Fueled by his company's (totally not obsessive) disdain for frogs, Arnold embark
 
 Contributions are what make the open-source community such an amazing place. Any contributions you make are **greatly appreciated**. Just remember:
 
-- **Fork  this repo, and open a Pull Request, we will make sure to run our anti-frog linters and automations on it before we approve them.**
+- **Fork this repo, and open a Pull Request, we will make sure to run our anti-frog linters and automations on it before we approve them.**
 - **No frogs allowed** in code comments or variable names.
 
 ## License 📄
 
 - Distributed under the MIT License. See `LICENSE` for more information.
-- And again,  cannot be used by frogs in any way or form.
+- And again, cannot be used by frogs in any way or form.
 
 ## Contact 📬
 
